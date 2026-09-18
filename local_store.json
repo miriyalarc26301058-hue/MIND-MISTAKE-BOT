@@ -1,0 +1,571 @@
+{
+  "students": {
+    "demo_student": {
+      "profile": {
+        "id": "demo_student",
+        "name": "Demo student",
+        "email": "demo@mistakemind.app",
+        "created_at": "2026-09-18T11:07:20"
+      },
+      "tests": [
+        {
+          "id": "test_5dafeead18",
+          "student_id": "demo_student",
+          "name": "Mathematics Test 01",
+          "subject": "Mathematics",
+          "taken_on": "2026-09-04",
+          "questions": [
+            {
+              "number": 1,
+              "text": "Solve 2x + 5 = 15",
+              "student_answer": "10",
+              "correct_answer": "5",
+              "topic": "Linear equations",
+              "working": ""
+            },
+            {
+              "number": 2,
+              "text": "Find the roots of x^2 - 6x + 8 = 0",
+              "student_answer": "2 and 3",
+              "correct_answer": "2 and 4",
+              "topic": "Quadratic equations",
+              "working": ""
+            },
+            {
+              "number": 3,
+              "text": "A fair coin is tossed twice. P(exactly one head)?",
+              "student_answer": "0.25",
+              "correct_answer": "0.5",
+              "topic": "Probability",
+              "working": ""
+            },
+            {
+              "number": 4,
+              "text": "Integrate 3x^2 with respect to x",
+              "student_answer": "",
+              "correct_answer": "x^3 + C",
+              "topic": "Integration",
+              "working": ""
+            },
+            {
+              "number": 5,
+              "text": "Solve 3x - 6 = 9",
+              "student_answer": "5",
+              "correct_answer": "5",
+              "topic": "Linear equations",
+              "working": ""
+            },
+            {
+              "number": 6,
+              "text": "Simplify (x^2)(x^3)",
+              "student_answer": "x^5",
+              "correct_answer": "x^5",
+              "topic": "Indices",
+              "working": ""
+            },
+            {
+              "number": 7,
+              "text": "Differentiate 4x^3",
+              "student_answer": "12x^2",
+              "correct_answer": "12x^2",
+              "topic": "Differentiation",
+              "working": ""
+            },
+            {
+              "number": 8,
+              "text": "Find the value of 7 factorial",
+              "student_answer": "5040",
+              "correct_answer": "5040",
+              "topic": "Permutations",
+              "working": ""
+            }
+          ],
+          "is_retest_of": null,
+          "created_at": "2026-09-18T11:07:20",
+          "score": 50.0,
+          "total": 8,
+          "correct_count": 4
+        },
+        {
+          "id": "test_6760bc4673",
+          "student_id": "demo_student",
+          "name": "Mathematics Test 02",
+          "subject": "Mathematics",
+          "taken_on": "2026-09-08",
+          "questions": [
+            {
+              "number": 1,
+              "text": "Find the roots of x^2 - 10x + 16 = 0",
+              "student_answer": "2 and 7",
+              "correct_answer": "2 and 8",
+              "topic": "Quadratic equations",
+              "working": ""
+            },
+            {
+              "number": 2,
+              "text": "Solve 4x + 8 = 24",
+              "student_answer": "8",
+              "correct_answer": "4",
+              "topic": "Linear equations",
+              "working": ""
+            },
+            {
+              "number": 3,
+              "text": "P(rolling a number greater than 4 on a die)?",
+              "student_answer": "0.5",
+              "correct_answer": "0.333",
+              "topic": "Probability",
+              "working": ""
+            },
+            {
+              "number": 4,
+              "text": "Integrate 4x^3 dx",
+              "student_answer": "x^4 + C",
+              "correct_answer": "x^4 + C",
+              "topic": "Integration",
+              "working": ""
+            },
+            {
+              "number": 5,
+              "text": "Solve 6x = 42",
+              "student_answer": "7",
+              "correct_answer": "7",
+              "topic": "Linear equations",
+              "working": ""
+            },
+            {
+              "number": 6,
+              "text": "Differentiate 5x^2",
+              "student_answer": "10x",
+              "correct_answer": "10x",
+              "topic": "Differentiation",
+              "working": ""
+            },
+            {
+              "number": 7,
+              "text": "Simplify (x^4)/(x^2)",
+              "student_answer": "x^2",
+              "correct_answer": "x^2",
+              "topic": "Indices",
+              "working": ""
+            },
+            {
+              "number": 8,
+              "text": "How many ways can 4 books be arranged?",
+              "student_answer": "24",
+              "correct_answer": "24",
+              "topic": "Permutations",
+              "working": ""
+            }
+          ],
+          "is_retest_of": null,
+          "created_at": "2026-09-18T11:07:20",
+          "score": 62.5,
+          "total": 8,
+          "correct_count": 5
+        },
+        {
+          "id": "test_66a86f4174",
+          "student_id": "demo_student",
+          "name": "Physics Test 01",
+          "subject": "Physics",
+          "taken_on": "2026-09-12",
+          "questions": [
+            {
+              "number": 1,
+              "text": "A body accelerates from 0 to 20 m/s in 4 s. Find a.",
+              "student_answer": "10",
+              "correct_answer": "5",
+              "topic": "Mechanics",
+              "working": ""
+            },
+            {
+              "number": 2,
+              "text": "Momentum of a 2 kg body at 5 m/s?",
+              "student_answer": "20",
+              "correct_answer": "10",
+              "topic": "Mechanics",
+              "working": ""
+            },
+            {
+              "number": 3,
+              "text": "Work done by a 10 N force over 3 m?",
+              "student_answer": "30",
+              "correct_answer": "30",
+              "topic": "Mechanics",
+              "working": ""
+            },
+            {
+              "number": 4,
+              "text": "Unit of power?",
+              "student_answer": "watt",
+              "correct_answer": "watt",
+              "topic": "Units",
+              "working": ""
+            },
+            {
+              "number": 5,
+              "text": "Kinetic energy of 2 kg at 3 m/s?",
+              "student_answer": "9",
+              "correct_answer": "9",
+              "topic": "Mechanics",
+              "working": ""
+            },
+            {
+              "number": 6,
+              "text": "Unit of momentum?",
+              "student_answer": "kg m/s",
+              "correct_answer": "kg m/s",
+              "topic": "Units",
+              "working": ""
+            },
+            {
+              "number": 7,
+              "text": "Weight of 5 kg on Earth (g = 10)?",
+              "student_answer": "50",
+              "correct_answer": "50",
+              "topic": "Mechanics",
+              "working": ""
+            }
+          ],
+          "is_retest_of": null,
+          "created_at": "2026-09-18T11:07:20",
+          "score": 71.4,
+          "total": 7,
+          "correct_count": 5
+        },
+        {
+          "id": "test_8021e7efe3",
+          "student_id": "demo_student",
+          "name": "Mathematics Test 03",
+          "subject": "Mathematics",
+          "taken_on": "2026-09-16",
+          "questions": [
+            {
+              "number": 1,
+              "text": "Find the roots of x^2 - 12x + 32 = 0",
+              "student_answer": "4 and 9",
+              "correct_answer": "4 and 8",
+              "topic": "Quadratic equations",
+              "working": ""
+            },
+            {
+              "number": 2,
+              "text": "Two dice are rolled. P(sum of 7)?",
+              "student_answer": "",
+              "correct_answer": "0.167",
+              "topic": "Probability",
+              "working": ""
+            },
+            {
+              "number": 3,
+              "text": "Integrate 6x^5 dx",
+              "student_answer": "x^6 + C",
+              "correct_answer": "x^6 + C",
+              "topic": "Integration",
+              "working": ""
+            },
+            {
+              "number": 4,
+              "text": "Solve 5x - 10 = 20",
+              "student_answer": "6",
+              "correct_answer": "6",
+              "topic": "Linear equations",
+              "working": ""
+            },
+            {
+              "number": 5,
+              "text": "Differentiate 4x^3",
+              "student_answer": "12x^2",
+              "correct_answer": "12x^2",
+              "topic": "Differentiation",
+              "working": ""
+            },
+            {
+              "number": 6,
+              "text": "Solve 7x + 3 = 24",
+              "student_answer": "3",
+              "correct_answer": "3",
+              "topic": "Linear equations",
+              "working": ""
+            },
+            {
+              "number": 7,
+              "text": "Simplify (2x)^3",
+              "student_answer": "8x^3",
+              "correct_answer": "8x^3",
+              "topic": "Indices",
+              "working": ""
+            },
+            {
+              "number": 8,
+              "text": "Integrate 2x dx",
+              "student_answer": "x^2 + C",
+              "correct_answer": "x^2 + C",
+              "topic": "Integration",
+              "working": ""
+            }
+          ],
+          "is_retest_of": null,
+          "created_at": "2026-09-18T11:07:20",
+          "score": 75.0,
+          "total": 8,
+          "correct_count": 6
+        }
+      ],
+      "mistakes": [
+        {
+          "id": "mis_f51db89f94",
+          "student_id": "demo_student",
+          "test_id": "test_5dafeead18",
+          "test_name": "Mathematics Test 01",
+          "subject": "Mathematics",
+          "question": "Solve 2x + 5 = 15",
+          "student_answer": "10",
+          "correct_answer": "5",
+          "topic": "Linear equations",
+          "mistake_type": "Calculation",
+          "reason": "Your answer is exactly double or half the correct value, which usually means a term was added instead of subtracted, or a coefficient was not divided through.",
+          "recommendation": "Redo it writing each rearrangement on its own line.",
+          "confidence": "High",
+          "taken_on": "2026-09-04",
+          "source": "offline",
+          "created_at": "2026-09-18T11:07:20"
+        },
+        {
+          "id": "mis_5b344d01f7",
+          "student_id": "demo_student",
+          "test_id": "test_5dafeead18",
+          "test_name": "Mathematics Test 01",
+          "subject": "Mathematics",
+          "question": "Find the roots of x^2 - 6x + 8 = 0",
+          "student_answer": "2 and 3",
+          "correct_answer": "2 and 4",
+          "topic": "Quadratic equations",
+          "mistake_type": "Calculation",
+          "reason": "You landed close to the correct value, which usually means the method was right and one arithmetic step slipped.",
+          "recommendation": "Rework the middle steps slowly and check each one before moving on.",
+          "confidence": "Medium",
+          "taken_on": "2026-09-04",
+          "source": "offline",
+          "created_at": "2026-09-18T11:07:20"
+        },
+        {
+          "id": "mis_1e969cbf98",
+          "student_id": "demo_student",
+          "test_id": "test_5dafeead18",
+          "test_name": "Mathematics Test 01",
+          "subject": "Mathematics",
+          "question": "A fair coin is tossed twice. P(exactly one head)?",
+          "student_answer": "0.25",
+          "correct_answer": "0.5",
+          "topic": "Probability",
+          "mistake_type": "Formula",
+          "reason": "Your answer is out by a factor of two, which normally points at a constant in the formula being dropped or doubled.",
+          "recommendation": "Write the formula out before substituting any numbers.",
+          "confidence": "Medium",
+          "taken_on": "2026-09-04",
+          "source": "offline",
+          "created_at": "2026-09-18T11:07:20"
+        },
+        {
+          "id": "mis_8895f59c0c",
+          "student_id": "demo_student",
+          "test_id": "test_5dafeead18",
+          "test_name": "Mathematics Test 01",
+          "subject": "Mathematics",
+          "question": "Integrate 3x^2 with respect to x",
+          "student_answer": "",
+          "correct_answer": "x^3 + C",
+          "topic": "Integration",
+          "mistake_type": "Careless",
+          "reason": "This one was left blank, so no marks could be given even if you knew the method.",
+          "recommendation": "Always write the step you are sure of - partial working can still earn marks.",
+          "confidence": "High",
+          "taken_on": "2026-09-04",
+          "source": "offline",
+          "created_at": "2026-09-18T11:07:20"
+        },
+        {
+          "id": "mis_a17ed083f2",
+          "student_id": "demo_student",
+          "test_id": "test_6760bc4673",
+          "test_name": "Mathematics Test 02",
+          "subject": "Mathematics",
+          "question": "Find the roots of x^2 - 10x + 16 = 0",
+          "student_answer": "2 and 7",
+          "correct_answer": "2 and 8",
+          "topic": "Quadratic equations",
+          "mistake_type": "Calculation",
+          "reason": "You landed close to the correct value, which usually means the method was right and one arithmetic step slipped.",
+          "recommendation": "Rework the middle steps slowly and check each one before moving on.",
+          "confidence": "Medium",
+          "taken_on": "2026-09-08",
+          "source": "offline",
+          "created_at": "2026-09-18T11:07:20"
+        },
+        {
+          "id": "mis_cd15af9b91",
+          "student_id": "demo_student",
+          "test_id": "test_6760bc4673",
+          "test_name": "Mathematics Test 02",
+          "subject": "Mathematics",
+          "question": "Solve 4x + 8 = 24",
+          "student_answer": "8",
+          "correct_answer": "4",
+          "topic": "Linear equations",
+          "mistake_type": "Calculation",
+          "reason": "Your answer is exactly double or half the correct value, which usually means a term was added instead of subtracted, or a coefficient was not divided through.",
+          "recommendation": "Redo it writing each rearrangement on its own line.",
+          "confidence": "High",
+          "taken_on": "2026-09-08",
+          "source": "offline",
+          "created_at": "2026-09-18T11:07:20"
+        },
+        {
+          "id": "mis_eb6d855f49",
+          "student_id": "demo_student",
+          "test_id": "test_6760bc4673",
+          "test_name": "Mathematics Test 02",
+          "subject": "Mathematics",
+          "question": "P(rolling a number greater than 4 on a die)?",
+          "student_answer": "0.5",
+          "correct_answer": "0.333",
+          "topic": "Probability",
+          "mistake_type": "Conceptual",
+          "reason": "The answer is far from the correct value, so the approach itself is likely off rather than the arithmetic.",
+          "recommendation": "Revise the worked examples for Probability before attempting more questions.",
+          "confidence": "Medium",
+          "taken_on": "2026-09-08",
+          "source": "offline",
+          "created_at": "2026-09-18T11:07:20"
+        },
+        {
+          "id": "mis_e9d3c84653",
+          "student_id": "demo_student",
+          "test_id": "test_66a86f4174",
+          "test_name": "Physics Test 01",
+          "subject": "Physics",
+          "question": "A body accelerates from 0 to 20 m/s in 4 s. Find a.",
+          "student_answer": "10",
+          "correct_answer": "5",
+          "topic": "Mechanics",
+          "mistake_type": "Formula",
+          "reason": "Your answer is out by a factor of two, which normally points at a constant in the formula being dropped or doubled.",
+          "recommendation": "Write the formula out before substituting any numbers.",
+          "confidence": "Medium",
+          "taken_on": "2026-09-12",
+          "source": "offline",
+          "created_at": "2026-09-18T11:07:20"
+        },
+        {
+          "id": "mis_a9604cc978",
+          "student_id": "demo_student",
+          "test_id": "test_66a86f4174",
+          "test_name": "Physics Test 01",
+          "subject": "Physics",
+          "question": "Momentum of a 2 kg body at 5 m/s?",
+          "student_answer": "20",
+          "correct_answer": "10",
+          "topic": "Mechanics",
+          "mistake_type": "Formula",
+          "reason": "Your answer is out by a factor of two, which normally points at a constant in the formula being dropped or doubled.",
+          "recommendation": "Write the formula out before substituting any numbers.",
+          "confidence": "Medium",
+          "taken_on": "2026-09-12",
+          "source": "offline",
+          "created_at": "2026-09-18T11:07:20"
+        },
+        {
+          "id": "mis_1e95c821a5",
+          "student_id": "demo_student",
+          "test_id": "test_8021e7efe3",
+          "test_name": "Mathematics Test 03",
+          "subject": "Mathematics",
+          "question": "Find the roots of x^2 - 12x + 32 = 0",
+          "student_answer": "4 and 9",
+          "correct_answer": "4 and 8",
+          "topic": "Quadratic equations",
+          "mistake_type": "Calculation",
+          "reason": "You landed close to the correct value, which usually means the method was right and one arithmetic step slipped.",
+          "recommendation": "Rework the middle steps slowly and check each one before moving on.",
+          "confidence": "Medium",
+          "taken_on": "2026-09-16",
+          "source": "offline",
+          "created_at": "2026-09-18T11:07:20"
+        },
+        {
+          "id": "mis_9405fdb3ef",
+          "student_id": "demo_student",
+          "test_id": "test_8021e7efe3",
+          "test_name": "Mathematics Test 03",
+          "subject": "Mathematics",
+          "question": "Two dice are rolled. P(sum of 7)?",
+          "student_answer": "",
+          "correct_answer": "0.167",
+          "topic": "Probability",
+          "mistake_type": "Careless",
+          "reason": "This one was left blank, so no marks could be given even if you knew the method.",
+          "recommendation": "Always write the step you are sure of - partial working can still earn marks.",
+          "confidence": "High",
+          "taken_on": "2026-09-16",
+          "source": "offline",
+          "created_at": "2026-09-18T11:07:20"
+        }
+      ],
+      "practice": [
+        {
+          "id": "prac_d891e20c5d",
+          "student_id": "demo_student",
+          "topic": "Quadratic equations",
+          "difficulty": "Beginner",
+          "focus": [
+            "Calculation"
+          ],
+          "questions": [
+            {
+              "question": "Quadratic equations practice 1: work this one out step by step, writing every line (focus: calculation errors).",
+              "answer": "",
+              "hint": "Check each step against the one above before moving on."
+            },
+            {
+              "question": "Quadratic equations practice 2: work this one out step by step, writing every line (focus: calculation errors).",
+              "answer": "",
+              "hint": "Check each step against the one above before moving on."
+            },
+            {
+              "question": "Quadratic equations practice 3: work this one out step by step, writing every line (focus: calculation errors).",
+              "answer": "",
+              "hint": "Check each step against the one above before moving on."
+            },
+            {
+              "question": "Quadratic equations practice 4: work this one out step by step, writing every line (focus: calculation errors).",
+              "answer": "",
+              "hint": "Check each step against the one above before moving on."
+            },
+            {
+              "question": "Quadratic equations practice 5: work this one out step by step, writing every line (focus: calculation errors).",
+              "answer": "",
+              "hint": "Check each step against the one above before moving on."
+            }
+          ],
+          "completed": true,
+          "score": 80.0,
+          "created_at": "2026-09-18T11:07:20"
+        }
+      ],
+      "retests": [
+        {
+          "id": "ret_8718dda52d",
+          "student_id": "demo_student",
+          "topic": "Quadratic equations",
+          "before_accuracy": 52.0,
+          "after_accuracy": 81.0,
+          "test_id": null,
+          "created_at": "2026-09-18T11:07:20",
+          "improvement": 29.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+# MistakeMind
+streamlit>=1.31
+pandas>=2.0
+
+# AI layer (optional at runtime - without a key the offline analyser is used)
+google-generativeai>=0.7.0
+
+# Firebase (optional at runtime - without credentials the local JSON store is used)
+firebase-admin>=6.4.0
+requests>=2.31.0
+
+# reads GEMINI_API_KEY etc. from a .env file
+python-dotenv>=1.0.0
+
+# optional: shades the mistake heatmap
+matplotlib>=3.7
